@@ -1,2 +1,10 @@
-# leetcode-solutions
-A repo for Leetcode problems done everyday - atleast 1 problem a day
+# Leetcode-Solutions
+
+A repo for piling up leetcode solutions and problems.
+
+
+
+## Problems Solved
+
+
+- [01-Two-Sum](https://leetcode.com/problems/two-sum/)
